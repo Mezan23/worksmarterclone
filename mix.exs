@@ -55,7 +55,7 @@ defmodule Worksmarter.MixProject do
       {:plug_cowboy, "~> 2.5"},
       {:ash, "~> 3.5"},
       {:ash_postgres, "~> 2.6"},
-      {:ash_graphql, "~> 1.3"},
+      {:ash_graphql, "~> 1.8.3"},
       {:absinthe_plug, "~> 1.5"},
       #{:phoenix_ecto, "~> 4.4"},
       #{:ecto_sql, "~> 3.10"},
