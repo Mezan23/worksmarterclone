@@ -1,3 +1,8 @@
+# Worksmarterclone
+
+A work-in-progress Elixir project. Development paused while focus shifted to building a live WebRTC video conferencing platform.
+
+
 # Worksmarter
 
 To start your Phoenix server:
